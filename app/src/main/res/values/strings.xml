@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Student Registration</string>
+    <string name="title_form">Student Registration Form</string>
+    <string name="hint_name">Student Name</string>
+    <string name="hint_age">Age</string>
+    <string name="label_gender">Gender</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="gender_other">Other</string>
+    <string name="hint_course">Course (start typing...)</string>
+    <string name="btn_submit">Submit</string>
+    <string name="err_name">Please enter the student name</string>
+    <string name="err_age">Enter a valid age (1 - 120)</string>
+    <string name="err_gender">Please select a gender</string>
+    <string name="err_course">Please choose or type a course</string>
+    <string name="toast_success">Registration successful!</string>
+
+    <string-array name="courses">
+        <item>Diploma in Information Technology</item>
+        <item>Diploma in Computer Science</item>
+        <item>Diploma in Business Administration</item>
+        <item>Diploma in Electrical Engineering</item>
+        <item>Diploma in Civil Engineering</item>
+        <item>Diploma in Mechanical Engineering</item>
+        <item>Diploma in Accounting</item>
+        <item>Diploma in Graphic Design</item>
+    </string-array>
+</resources>
